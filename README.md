@@ -1,0 +1,3 @@
+＃selenium_chucard
+輸入Dcard帳號密碼
+自動抓取今日抽卡人的資料
